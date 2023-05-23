@@ -5,26 +5,26 @@
 ![image](https://user-images.githubusercontent.com/125453724/220854246-262ee776-a398-41ed-b96f-4e1a0c5fa024.png)
 
 ### Thématique 
-Analyse des elections municipales de la ville de Lille et quelques villes alentours pour les années 2008, 2014 et 2020.
-Au regard de l’historique des précédentes élections municipales de la ville de Lille VS les villes alentours sélectionnées peut-on donner une tendance pour les élections municipales de 2026 pour la ville de Lille ?
+#### Analyse et visualisation de l’évolution des résultats des élections municipales dans le Nord entre 2001 et 2020.
+
+Au regard de l’historique des précédentes élections municipales, peut-on donner une tendance de la couleur politique qui ressortira en 2026 ?
+Les résultats des élections municipales dans le Nord sont-ils corrélables à d’autres facteurs influençant ?
 
 ### Contexte 
-Les élections municipales dans les Hauts-de-France constituent un enjeu majeur pour les différents partis politiques. Les résultats de ces élections peuvent être influencés par divers facteurs tels que la démographie, l'économie et les tendances politiques régionales et/ou nationales. Une analyse approfondie de ces facteurs pourrait nous permettre de déterminer les tendances pour les élections municipales de 2026. Nous décidons de nous concentrer sur un périmétre autour de la ville de Lille pour un meilleur accès aux données et pour une meilleur visualisation de notre analyse. 
+Les élections municipales dans le Nord constituent un enjeu majeur pour les différents partis politiques. Les résultats de ces élections peuvent être influencés par divers facteurs socio-économiques. Les données sont disponibles sur plusieurs sites officiels. Une analyse approfondie de ces facteurs permettrait de déterminer les tendances pour les élections municipales de 2026. Les facteurs socio-économiques sont plus complexes à déterminer et doivent être en adéquation avec les périodes des élections municipales. 
 
 ### Objectifs 
 
-L'objectif principal de ce projet est d'analyser les élections municipales de la ville de Lille et d'un périmètre définit (quelques villes alentours) pour les années 2008, 2014 et 2020 afin de déterminer les tendances politiques et les facteurs qui peuvent influencer ces tendances. Au regard des résultats de l'analyse, nous aimerions prédire les tendances pour les élections municipales de 2026.
+L'objectif principal de ce projet est d'analyser les élections municipales dans le Nord pour déterminer les facteurs influençant et les tendances politiques. 
+Nous souhaitons tenter d’identifier les corrélations entre les données socio-économiques et les résultats des élections municipales précédentes. Pour cela, nous devons déterminer les facteurs influençant les résultats des élections municipales dans le Nord.
+Pour finir, nous avons pour ambition de modéliser les tendances pour les élections municipales de 2026.
 
 ### Méthodologie
 
-Les différentes étapes de notre projet fil rouge : 
-
-- Collecter, nettoyer et analyser les données disponibles
-- Identifier les variables que l'on souhaite retenir 
-- Analyser les corrélations entre les données démographiques, économiques et politiques et l'évolution des couleurs politiques
-- Les corrélations entre les données démographiques, économiques et politiques et les résultats des élections municipales précédentes. 
-- Tenter de déterminer les facteurs influençants les résultats des élections municipales 
-- Prédire les tendances pour les élections municipales de 2026
+Le projet sera réalisé en plusieurs étapes :
+  1.	Collecte des données : les données nécessaires seront collectées auprès de différentes sources telles que l'Insee, Ministère de l'Intérieur, etc.
+  2.	Analyse des données : les données collectées seront nettoyées, transformées et analysées à l'aide de techniques telles que l'ETL et la modélisation de données.
+  3.	Identification des facteurs influençant : les corrélations entre les données démographiques, économiques et politiques seront analysées à l'aide des outils vue en formation.
 
 ### Livrables 
 
